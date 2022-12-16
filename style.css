@@ -1,0 +1,23 @@
+.box-slide {
+  /* border: 1px solid; */
+  background: rgba(255, 0, 0, 0);
+  text-align: center;
+}
+
+.card-slide {
+  color: rgb(0, 0, 0);
+  font-size: 1.3rem;
+  padding: 8px 0px;
+  margin-bottom: 8px;
+  background: #fffffff2;
+  /* padding: 20px; */
+  border-radius: 10px;
+  box-shadow: #94969d50 0 5px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.c-gold {
+  color: gold;
+}
